@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rahseigama.rockcanteen.fr/sitemap.xml
